@@ -1,0 +1,1 @@
+NOTE: Replace placeholder Farcaster OAuth endpoints in /pages/api/auth/login.js and /pages/api/auth/callback.js with the real endpoints and adjust scope accordingly.
